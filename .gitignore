@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.so
+*.pt
+*.pkl
+*.npy
+.ipynb_checkpoints/
+.venv/
+venv/
+save_files/
+data/
